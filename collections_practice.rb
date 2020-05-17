@@ -1,8 +1,5 @@
 def sort_array_asc(array)
-  array= [intergers]
-  
-  
-  array.sort 
+ array.sort 
 end 
   
   
