@@ -35,6 +35,8 @@ def find_a(array)
     word[0] == "a"
   end 
 end 
+
+
   
   
   
